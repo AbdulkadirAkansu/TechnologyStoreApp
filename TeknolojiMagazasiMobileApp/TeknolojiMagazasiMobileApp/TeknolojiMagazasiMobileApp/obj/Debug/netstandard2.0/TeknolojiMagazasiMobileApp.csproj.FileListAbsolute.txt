@@ -1,0 +1,15 @@
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\TeknolojiMagazasiMobileApp.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\TeknolojiMagazasiMobileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\KullanıcıViews\KullanıcıListPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\KullanıcıViews\KullanıcıPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\KullanıcıViews\LoginPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\MarkaViews\MarkaListPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\MarkaViews\MarkaPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\UrunViews\UrunListPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\Views\UrunViews\UrunPage.xaml.g.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\TeknolojiMagazasiMobileApp.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\TeknolojiMagazasiMobileApp.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\TeknolojiMagazasiMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Mobil Proje\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\TeknolojiMagazasiMobileApp\obj\Debug\netstandard2.0\MainPageFlyout.xaml.g.cs

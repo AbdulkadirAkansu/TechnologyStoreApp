@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\urunviews\\urunpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\urunviews\\urunpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\urunviews\\urunlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\urunviews\\urunlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\markaviews\\markapage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\markaviews\\markapage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\markaviews\\markalistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\markaviews\\markalistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131page.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131page.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\markaviewmodels\\markaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\markaviewmodels\\markaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\kullan\u0131c\u0131viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\kullan\u0131c\u0131viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\Views\\MarkaViews\\MarkaListPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\Views\\MarkaViews\\MarkaListPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpageflyout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpageflyout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpageflyout.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpageflyout.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpageflyoutmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\mainpageflyoutmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\markaviews\\markalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\markaviews\\markalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\kullan\u0131c\u0131views\\kullan\u0131c\u0131listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\urunviews\\urunlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\views\\urunviews\\urunlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\urunviewmodels\\urunlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\urunviewmodels\\urunlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\urunviewmodels\\urunviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\urunviewmodels\\urunviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\kullan\u0131c\u0131manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\kullan\u0131c\u0131manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\markamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\markamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\urunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\databasemanagement\\urunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\kullan\u0131c\u0131viewmodels\\kullan\u0131c\u0131listviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\markaviewmodels\\markalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DB11CE-9F41-4674-9241-F813FDFD8289}|TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp.csproj|solutionrelative:teknolojimagazasimobileapp\\teknolojimagazasimobileapp\\viewmodels\\markaviewmodels\\markalistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\TeknolojiMagazasiMobileApp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\TeknolojiMagazasiMobileApp.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 657,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullan\u0131c\u0131ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kullan\u0131c\u0131Page.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131Page.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131Page.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131Page.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarkaListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarkaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrunListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrunPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarkaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaViewModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kullan\u0131c\u0131ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ViewModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwFUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarkaListPage.xaml.g.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\Views\\MarkaViews\\MarkaListPage.xaml.g.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\Views\\MarkaViews\\MarkaListPage.xaml.g.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\Views\\MarkaViews\\MarkaListPage.xaml.g.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\Views\\MarkaViews\\MarkaListPage.xaml.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPageFlyoutMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyoutMenuItem.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyoutMenuItem.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyoutMenuItem.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyoutMenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPageFlyout.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPageFlyout.xaml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPageFlyout.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:17:47.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeknolojiMagazasiMobileApp.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\TeknolojiMagazasiMobileApp.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\TeknolojiMagazasiMobileApp.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\TeknolojiMagazasiMobileApp.AssemblyInfo.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\obj\\Debug\\netstandard2.0\\TeknolojiMagazasiMobileApp.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MarkaListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\MarkaViews\\MarkaListPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Kullan\u0131c\u0131ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\Kullan\u0131c\u0131Views\\Kullan\u0131c\u0131ListPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UrunListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Views\\UrunViews\\UrunListPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\DatabaseContext.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrunViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UrunListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\UrunViewModels\\UrunListViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Kullan\u0131c\u0131Manager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\Kullan\u0131c\u0131Manager.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\Kullan\u0131c\u0131Manager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\Kullan\u0131c\u0131Manager.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\Kullan\u0131c\u0131Manager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MarkaManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\MarkaManager.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\MarkaManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\MarkaManager.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\MarkaManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UnitOfWork.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UrunManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UrunManager.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UrunManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UrunManager.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\DatabaseManagement\\UrunManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\BaseModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Kullan\u0131c\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Marka.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Marka.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Marka.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Marka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Urun.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Urun.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\Models\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Kullan\u0131c\u0131ListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\Kullan\u0131c\u0131ViewModels\\Kullan\u0131c\u0131ListViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwD0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MarkaListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "RelativeDocumentMoniker": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "RelativeToolTip": "TeknolojiMagazasiMobileApp\\TeknolojiMagazasiMobileApp\\ViewModels\\MarkaViewModels\\MarkaListViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:17:47.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

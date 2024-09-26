@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TeknolojiMagazasiMobileApp.Views.KullanıcıViews.KullanıcıPage">
+    <StackLayout Padding="10">
+        <Label Text="Kullanıcı Bilgileri"
+                   FontSize="20"
+                   Margin="0,20,0,10"
+                   HorizontalTextAlignment="Center"/>
+        <Entry Text="{Binding KullanıcıAdı}"
+               Placeholder="Kullanıcı Adı"/>
+        <Entry Text="{Binding Parola}"
+               Placeholder="Parola"
+               IsPassword="True"/>
+        <Entry Text="{Binding ParolaTekrar}" 
+               Placeholder="Parola Tekrar"
+               IsPassword="True"/>
+
+        <Grid ColumnDefinitions="*,*">
+            <Button Text="İptal"
+                        Command="{Binding CancelCommand}"/>
+            <Button Text="Tamam" Grid.Column="1"
+                        Command="{Binding OkCommand}"/>
+        </Grid>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TeknolojiMagazasiMobileApp.Views.UrunViews.UrunPage">
+    <StackLayout Padding="10">
+        <Label Text="Ürün Bilgileri"
+                   FontSize="20"
+                   Margin="0,20,0,10"
+                   HorizontalTextAlignment="Center"/>
+        <Entry Text="{Binding Ad}" Placeholder="Adı"/>
+        <Entry Text="{Binding StokAdet}" Placeholder="Stok Adet"/>
+        <Entry Text="{Binding Fiyat}" Placeholder="Fiyatı"/>
+
+        <Grid ColumnDefinitions="*,*">
+            <Button Text="İptal"
+                        Command="{Binding CancelCommand}"/>
+            <Button Text="Tamam" Grid.Column="1"
+                        Command="{Binding OkCommand}"/>
+        </Grid>
+
+    </StackLayout>
+</ContentPage>

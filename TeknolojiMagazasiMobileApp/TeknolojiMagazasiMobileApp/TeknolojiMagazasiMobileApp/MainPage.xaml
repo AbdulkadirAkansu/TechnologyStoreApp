@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="TeknolojiMagazasiMobileApp.MainPage"
+            xmlns:local="clr-namespace:TeknolojiMagazasiMobileApp"
+            xmlns:views="clr-namespace:TeknolojiMagazasiMobileApp.Views.MarkaViews">
+
+    <FlyoutPage.Flyout>
+        <local:MainPageFlyout x:Name="menuPage" />
+    </FlyoutPage.Flyout>
+    <FlyoutPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <views:MarkaListPage />
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>

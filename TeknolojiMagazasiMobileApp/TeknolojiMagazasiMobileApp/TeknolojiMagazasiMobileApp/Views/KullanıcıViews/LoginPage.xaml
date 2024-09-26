@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TeknolojiMagazasiMobileApp.Views.KullanıcıViews.Login">
+    <ContentPage.Content>
+
+        <Grid RowDefinitions="*,2*">
+            <Label Text="Login"
+                   FontSize="20"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"/>
+
+            <StackLayout Grid.Row="1">
+
+                <Entry Text="{Binding KullanıcıAdı}" Placeholder="Kullanıcı Adı"/>
+                <Entry IsPassword="True"
+                       Text="{Binding Parola}" 
+                       Placeholder="Parola" 
+                       Keyboard="Numeric"/>
+
+                <Label Text="{Binding ErrorMessage}"
+                   TextColor="Red"/>
+
+
+                <Button Text="Tamam"
+                    Margin="0,10,0,0"
+                    Command="{Binding LoginCommand}"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

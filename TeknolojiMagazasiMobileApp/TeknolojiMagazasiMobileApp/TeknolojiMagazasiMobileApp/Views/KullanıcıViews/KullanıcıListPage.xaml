@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TeknolojiMagazasiMobileApp.Views.KullanıcıViews.KullanıcıListPage"
+             Title="Kullanıc Listesi"
+             x:Name="kullaniciListView">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Ekle" Command="{Binding InsertCommand}"/>
+    </ContentPage.ToolbarItems>
+
+    <RefreshView Command="{Binding RefreshCommand}"
+                 IsRefreshing="{Binding IsBusy}">
+        <ScrollView>
+            <ListView ItemsSource="{Binding Items}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="8">
+                                <Label Text="{Binding KullanıcıAdı}"
+                                           VerticalOptions="Center"/>
+                            </Grid>
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Sil"
+                                              Command="{Binding Source={x:Reference kullaniciListView}, Path=BindingContext.DeleteCommand}"
+                                              CommandParameter="{Binding .}"/>
+                                <MenuItem Text="Güncelle"
+                                              Command="{Binding Source={x:Reference kullaniciListView}, Path=BindingContext.UpdateCommand}"
+                                              CommandParameter="{Binding .}"/>
+                            </ViewCell.ContextActions>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+    </RefreshView>
+
+</ContentPage>

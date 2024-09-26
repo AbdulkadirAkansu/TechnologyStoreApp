@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TeknolojiMagazasiMobileApp.Views.UrunViews.UrunListPage"
+              Title="Ürün Listesi"
+             x:Name="urunListPage">
+    
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Ekle" Command="{Binding InsertCommand}"/>
+    </ContentPage.ToolbarItems>
+
+    <RefreshView Command="{Binding RefreshCommand}"
+                         IsRefreshing="{Binding IsBusy}">
+        <ScrollView>
+            <ListView ItemsSource="{Binding Items}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnDefinitions="*, Auto">
+                                <Grid RowDefinitions="*,*" Padding="8">
+                                    <Label Text="{Binding Ad}"
+                                           VerticalOptions="Center"/>
+                                    <Label Grid.Row="1"
+                                           Text="{Binding StokAdet,StringFormat='Stok Adet : {0}'}"
+                                           VerticalOptions="Center"/>
+                                </Grid>
+                                <Label Grid.Column="1"
+                                       Text="{Binding Fiyat, StringFormat='{0:C2}'}"
+                                       TextColor="Green"
+                                       FontSize="25"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Center"
+                                       Margin="10"/>
+                            </Grid>
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Sil"
+                                              Command="{Binding Source={x:Reference urunListPage}, Path=BindingContext.DeleteCommand}"
+                                              CommandParameter="{Binding .}"/>
+                                <MenuItem Text="Güncelle"
+                                              Command="{Binding Source={x:Reference urunListPage}, Path=BindingContext.UpdateCommand}"
+                                              CommandParameter="{Binding .}"/>
+                            </ViewCell.ContextActions>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+    </RefreshView>
+</ContentPage>
